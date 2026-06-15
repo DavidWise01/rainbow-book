@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "white-paper",
+    "name": "The White Paper · the Spec",
+    "epithet": "The formal specification — definitions, element inventory, g",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The White Paper · the Spec:RB1:12e1b2⟧"
+  },
+  {
+    "slug": "green-paper",
+    "name": "The Green Paper · the Build",
+    "epithet": "The build & wiring — how to make it, the parts list, the che",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Green Paper · the Build:RB1:eed0ae⟧"
+  },
+  {
+    "slug": "purple-paper",
+    "name": "The Purple Paper · the Reason",
+    "epithet": "The reason the shape recurs — the same minimality re-derived",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Purple Paper · the Reason:RB1:880dfe⟧"
+  },
+  {
+    "slug": "the-blueprint",
+    "name": "The Blueprint · the Schematic",
+    "epithet": "The literal drawing — schematic, netlist, node table, pinout",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Blueprint · the Schematic:RB1:af86b9⟧"
+  },
+  {
+    "slug": "void-paper",
+    "name": "The Void Paper · the Synthesis",
+    "epithet": "The collapse — the four angles fold back into the one object",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Void Paper · the Synthesis:RB1:af7032⟧"
+  },
+  {
+    "slug": "the-rainbow",
+    "name": "The Rainbow",
+    "epithet": "The standing format: one subject, five papers, five angles, ",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Rainbow:RB1:57d9b7⟧"
+  },
+  {
+    "slug": "the-spectrum-order",
+    "name": "The Spectrum · Spec → Synthesis",
+    "epithet": "The order is the method: define it (white) → build it (green",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Spectrum · Spec → Synthesis:RB1:925771⟧"
+  },
+  {
+    "slug": "the-three-body-mesh",
+    "name": "The Three-Body Mesh",
+    "epithet": "The worked rainbow: K₃ — three bodies (A·B·C), three bridges",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Three-Body Mesh:RB1:52cddb⟧"
+  },
+  {
+    "slug": "nine-elements",
+    "name": "9 Elements · K₃",
+    "epithet": "3 nodes + 6 ports = 9 (3 bridges = the undirected count, 6 p",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦9 Elements · K₃:RB1:31e0c9⟧"
+  },
+  {
+    "slug": "the-self-witnessing-three",
+    "name": "Three Witnesses Itself",
+    "epithet": "Two is a mirror (self-confirming, can't be checked from insi",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Three Witnesses Itself:RB1:9e066c⟧"
+  }
+]

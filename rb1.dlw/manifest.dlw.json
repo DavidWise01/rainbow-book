@@ -1,0 +1,12 @@
+{
+  "node": "RB1",
+  "name": "THE RAINBOW BOOK",
+  "moniker": "⟦THE RAINBOW BOOK:RB1:f35db7⟧",
+  "carbon": "rb1.carbon.tiff",
+  "silicon": "rb1.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "A rainbow is five papers on one subject: white says it, green makes it, purple explains it, blueprint draws it, and void is it — the four angles collapsing back into the one object. Ask ROOT0 for a rainbow and this is the deliverable: spec · build · reason · drawing · synthesis, in five colours.",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
