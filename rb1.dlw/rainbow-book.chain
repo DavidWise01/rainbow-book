@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 511
+slug  : rainbow-book
+seal  : 47145008a1273df0a4e0e8ebca53da9e91f8e324e349d92298494e89b91f371d
+prev  : aef01e098c8ca09b85b87ed17e0689612369cbaf6918013c7d40854f3b7b57fd
+link  : 43e02434a62837c41c884aeda7532e5f20d6caa49f7b71a67da2851df3315c9d
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
